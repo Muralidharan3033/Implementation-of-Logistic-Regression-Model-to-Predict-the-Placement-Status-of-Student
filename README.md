@@ -21,8 +21,7 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 Developed by: MURALIDHARAN M 
 RegisterNumber: 212223040120
 */
-```
-```
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -102,6 +101,7 @@ xnew=np.array([[0,0,0,0,0,2,8,2,0,0,1,0]])
 y_prednew=predict(theta,xnew)
 print(y_prednew)
 ```
+
 
 ## Output:
 
